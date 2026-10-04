@@ -1,0 +1,6 @@
+{
+  "name": "PrankMaster",
+  "description": "Эпичное приложение для крутых пранков и шуток над друзьями: реалистичный электрошокер, машинка для стрижки волос, разбитый экран, звуковая доска с таймером, детектор лжи и фейковый звонок.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
